@@ -35,7 +35,6 @@ ___
 - Layout includes only essential sections such as menu, order, and contact.  
 - Buttons are large, clearly labelled, and consistently placed.
 
----
 
 ### Frequent Visitor (Persona 3)
 **User Story:** As a frequent visitor with low vision, I want to place an order quickly through a clear and simple ordering process so that I can save time and have a smooth experience.  
@@ -51,6 +50,8 @@ ___
 - Ordering process requires three steps or fewer.  
 - Page uses large, readable text and high-contrast colours.  
 - Selected menu items are visually highlighted or clearly confirmed.
+
+___
 
 ## 3. Reflection
 Designing the website meant balancing the needs of different users. First-time visitors with colour blindness can read the menu easily, frequent visitors with low vision can place orders quickly, and returning visitors with ADHD can navigate without distractions. High-contrast colours, large fonts, and clear buttons helped make the site accessible and usable for everyone.
