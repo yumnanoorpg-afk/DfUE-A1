@@ -3,6 +3,8 @@
 ## 1. Aims and Justification
 Magen coppy paste here
 
+___
+
 ## 2. User Personas
 
 ### First-Time Visitor (Persona 1)
@@ -18,7 +20,6 @@ Magen coppy paste here
 - Users can locate the menu within 10 seconds.  
 - Menu items use high-contrast colours for easy reading.
 
----
 
 ### Returning Visitor (Persona 2)
 **User Story:** As a returning visitor with ADHD, I want to navigate the website quickly without unnecessary distractions so that I can focus on finding the order option and completing my task efficiently.  
