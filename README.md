@@ -3,8 +3,6 @@
 ## 1. Aims and Justification
 Magen coppy paste here
 
-___
-
 ## 2. User Personas
 
 ### First-Time Visitor (Persona 1)
@@ -51,13 +49,12 @@ ___
 - Page uses large, readable text and high-contrast colours.  
 - Selected menu items are visually highlighted or clearly confirmed.
 
-___
 
 ## 3. Reflection
 Designing the website meant balancing the needs of different users. First-time visitors with colour blindness can read the menu easily, frequent visitors with low vision can place orders quickly, and returning visitors with ADHD can navigate without distractions. High-contrast colours, large fonts, and clear buttons helped make the site accessible and usable for everyone.
 
 Showing the flow between pages with arrows and annotating key elements made it easy to see how the interface works. Overall, the process highlighted the importance of designing for real users, ensuring everyone can navigate and complete tasks smoothly.
-___
+
 ## 4. Contributions
 |name   |  Role   | Contributions  |
 |-------|---------|----------------|
