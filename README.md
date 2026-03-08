@@ -1,7 +1,11 @@
 # Restaurant Kombu Website Project
 
 ## 1. Aims and Justification
-Magen coppy paste here
+Kombu currently has no proper online presence apart from a Google location and a Facebook page, which limits how easily customers can find reliable information about the business. Without a central website, people cannot view the menu, check prices, or see updated details before visiting. In a modern internet‑focused market, this lack of accessible information makes the business appear less professional and can discourage potential customers who expect clear, up‑to‑date details online. 
+
+Kombu has one clear competitor: Wagamama. Its website is appealing to customers, with many food photos especially with a front and central photo of a bowl of ramen on the frontpage and a big menu so there's something for everyone. Wagamama is a suitable comparison for Kombu because it has a appealing site structure with big buttons so its good for people who have sight issues or colour blindness as the buttons are a different colour from the background of the page. 
+
+Kombu’s website will be successful if it follows a simple structure similar to Gangnam’s, with features such as an order button and clear pictures of the food alongside names and prices. At the moment, Kombu relies on customer‑uploaded photos on Google Maps and occasional menu posts on Facebook, but these can be outdated, inaccurate, or only show seasonal items. Prices can also change, so depending on customer photos makes the information unreliable. Not everyone has a Facebook account, which means some customers cannot access the menu or updates at all. Creating a central website would allow Kombu to present accurate opening times, menu photos, and food information in one place, without relying on customers to upload content. 
 
 ## 2. User Personas
 
