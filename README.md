@@ -58,6 +58,6 @@ Showing the flow between pages with arrows and annotating key elements made it e
 ## 4. Contributions
 |name   |  Role   | Contributions  |
 |-------|---------|----------------|
-| Yumna  | designer/Leader | Created wireframes, annotated key accessibility features, designed UI flow, setup Github |
-| Megan  | researcher | handled Aims and justifications, developed user personas, defined tasks and acceptance criteria, provided advice on wireframe|
+| Yumna  | designer/Leader | Created wireframes, annotated key accessibility features, designed UI flow, setup Github developed user personas, defined tasks and acceptance criteria|
+| Megan  | researcher | handled Aims and justifications, reseached compatiotrs , defined what a successful website will look like, provided advice on wireframe|
 | Alhas   | researcher | was orignally ment to handel user personas|
